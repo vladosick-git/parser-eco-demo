@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Отходы.Ру</title>
+        <link>
+        https://www.waste.ru/</link>
+        <description>Справочно-информационный портал об отходах</description>
+        <lastBuildDate>Sat, 17 Oct 2026 18:03:54 +0600</lastBuildDate>
+        <docs>http://backend.userland.com/rss/</docs>
+        <generator>XOOPS</generator>
+        <category>News</category>
+        <managingEditor>info at waste dot ru</managingEditor>
+        <webMaster>info at waste dot ru</webMaster>
+        <language>ru</language>
+                    <image>
+                <title>Отходы.Ру</title>
+                <url>https://www.waste.ru/images/logo.png</url>
+                <link>
+                https://www.waste.ru/</link>
+                <width>100</width>
+                <height>41</height>
+            </image>
+                            <item>
+                <title>ВэйстТэк 2026: от создания мощностей - к работающей экономике переработки</title>
+                <link>
+                https://www.waste.ru/modules/news/article.php?storyid=6710</link>
+                <description>8-10 сентября 2026 года в Москве, в Крокус Экспо, прошла 18-я международная выставка ВэйстТэк - профессиональная площадка технологий и оборудования для обращения с коммунальными, промышленными, строительными и сельскохозяйственными отходами.</description>
+                <pubDate>Tue, 29 Sep 2026 16:20:00 +0600</pubDate>
+                <guid>https://www.waste.ru/modules/news/article.php?storyid=6710</guid>
+            </item>
+                    <item>
+                <title>В техкомплексе по обработке стеклоотходов «Сибстекла» усовершенствовали процесс очистки воздуха</title>
+                <link>
+                https://www.waste.ru/modules/news/article.php?storyid=6709</link>
+                <description>В технологическом комплексе по обработке стекольных отходов ООО «Сибирское стекло» («Сибстекло») установили новую систему пылеудаления, что позволило усовершенствовать процесс очистки воздуха.</description>
+                <pubDate>Thu, 13 Aug 2026 15:37:56 +0600</pubDate>
+                <guid>https://www.waste.ru/modules/news/article.php?storyid=6709</guid>
+            </item>
+                    <item>
+                <title>На «Сибстекле» завершили первый этап модернизации производства бесцветной стеклотары</title>
+                <link>
+                https://www.waste.ru/modules/news/article.php?storyid=6708</link>
+                <description>В ООО «Сибирское стекло» ввели в эксплуатацию модернизированную технологическую линию, осуществив замену шестисекционной стеклоформующей машины на восьмисекционную, тем самым повысили эффективность производства бесцветной стеклотары. </description>
+                <pubDate>Tue, 28 Jul 2026 12:20:00 +0600</pubDate>
+                <guid>https://www.waste.ru/modules/news/article.php?storyid=6708</guid>
+            </item>
+                    <item>
+                <title>  Юбилейный Совет промышленных экологов Пермского края в Соликамске: бизнес и власть вырабатывают единый подход к обращению со стройотходами</title>
+                <link>
+                https://www.waste.ru/modules/news/article.php?storyid=6707</link>
+                <description> 7 июля 2026 года в Соликамске на площадке ПАО «Уралкалий» прошло 10-е, юбилейное заседание Совета промышленных экологов Пермского края, организованного по инициативе «Кайрос Инжиниринг» и ЕНИ ПГНИУ. Ключевой темой встречи стала реформа системы обращения с отходами строительства, сноса и благоустройства. Представители регионального Минприроды, научного сообщества и ведущих промышленных предприятий обсудили внедрение принципов экономики замкнутого цикла и новые требования законодательства.</description>
+                <pubDate>Mon, 13 Jul 2026 17:40:00 +0600</pubDate>
+                <guid>https://www.waste.ru/modules/news/article.php?storyid=6707</guid>
+            </item>
+                    <item>
+                <title>Wasma-2026: итоги выставки</title>
+                <link>
+                https://www.waste.ru/modules/news/article.php?storyid=6703</link>
+                <description>C 28 по 30 апреля в «Тимирязев Центре» состоялась 22-я Международная выставка экологических технологий Wasma, организованная «Международной выставочной компанией» («МВК»). Публично-правовая компания «Российский экологический оператор» (ППК «РЭО) традиционно выступила соорганизатором выставки.</description>
+                <pubDate>Mon, 08 Jun 2026 18:30:00 +0600</pubDate>
+                <guid>https://www.waste.ru/modules/news/article.php?storyid=6703</guid>
+            </item>
+                    <item>
+                <title>ПМЭФ: «Сибстекло» и «Байкал Аква» улучшат экологический профиль упаковки</title>
+                <link>
+                https://www.waste.ru/modules/news/article.php?storyid=6705</link>
+                <description>В рамках XXIX Петербургского международного экономического форума генеральный директор «Сибирского стекла» Антон Мор и директор по маркетингу «Байкал Аква» Елена Логунова заключили соглашение о сотрудничестве, предусматривающем снижение доли невозобновляемых ресурсов в промышленном производстве, как следствие, нагрузки на окружающую среду, учитывая достижение социально-экономических целей.</description>
+                <pubDate>Fri, 05 Jun 2026 13:20:00 +0600</pubDate>
+                <guid>https://www.waste.ru/modules/news/article.php?storyid=6705</guid>
+            </item>
+                    <item>
+                <title>ПМЭФ: «Сибстекло» и «Напитки вместе» укрепили сотрудничество в сфере экологии</title>
+                <link>
+                https://www.waste.ru/modules/news/article.php?storyid=6704</link>
+                <description>На полях XXIX Петербургского международного экономического форума генеральный директор ООО «Сибирское стекло» Антон Мор и исполнительный директор компании «Напитки Вместе» Станислав Каплан подписали соглашение о сотрудничестве, консолидирующем усилия сторон в продвижении принципов цикличной экономики, развитии инфраструктуры для утилизации отходов, повышении эффективности применения вторичных ресурсов. Документ дополняет взаимные обязательства компаний, в рамках достигнутых ранее договоренностей.</description>
+                <pubDate>Fri, 05 Jun 2026 13:20:00 +0600</pubDate>
+                <guid>https://www.waste.ru/modules/news/article.php?storyid=6704</guid>
+            </item>
+                    <item>
+                <title>ПМЭФ: «Сибстекло» заключило соглашения с Правительством Хабаровского края</title>
+                <link>
+                https://www.waste.ru/modules/news/article.php?storyid=6706</link>
+                <description>На площадке XXIX Петербургского международного экономического форума губернатор Хабаровского края Дмитрий Демешин и генеральный директор ООО «Сибирское стекло» Антон Мор подписали соглашение о сотрудничестве, предусматривающем развитие инфраструктуры обращения с твердыми коммунальными отходами, с целью укрепления социально-экономического потенциала региона и снижения негативного влияния на окружающую среду в рамках федерального проекта «Экономика замкнутого цикла» национального проекта «Экологическое благополучие».</description>
+                <pubDate>Thu, 04 Jun 2026 13:30:00 +0600</pubDate>
+                <guid>https://www.waste.ru/modules/news/article.php?storyid=6706</guid>
+            </item>
+                    <item>
+                <title> Стали известны первые номинанты премии «ЭКОТЕХ-ЛИДЕР 2026»</title>
+                <link>
+                https://www.waste.ru/modules/news/article.php?storyid=6702</link>
+                <description>Оргкомитет &lt;a href=&quot;https://ecotech-leader.ru/&quot; rel=&quot;external&quot; title=&quot;&quot;&gt;VI Национальной премии в области экологических технологий «ЭКОТЕХ-ЛИДЕР 2026»&lt;/a&gt; подвел результаты первого тура рассмотрения конкурсных проектов. На данном промежуточном этапе на победу претендуют 13 компаний, а всего поступило свыше сорока заявок.</description>
+                <pubDate>Fri, 15 May 2026 16:00:00 +0600</pubDate>
+                <guid>https://www.waste.ru/modules/news/article.php?storyid=6702</guid>
+            </item>
+                    <item>
+                <title>«Росагролизинг» занял треть рынка мусоровозов за один год</title>
+                <link>
+                https://www.waste.ru/modules/news/article.php?storyid=6701</link>
+                <description>Благодаря субсидируемой федеральным бюджетом программе лизинга покупателям поставлены 1154 машин , включая 665 — мусоровозов. </description>
+                <pubDate>Thu, 07 May 2026 15:50:00 +0600</pubDate>
+                <guid>https://www.waste.ru/modules/news/article.php?storyid=6701</guid>
+            </item>
+            </channel>
+</rss>
