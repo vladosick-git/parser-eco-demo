@@ -1,0 +1,79 @@
+name: collect
+
+on:
+  schedule:
+    - cron: "15 3 * * *"   # каждый день в 06:15 по Москве
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements-dev.txt
+
+      - name: Tests (без сети)
+        run: pytest -q
+
+      - name: Collect
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m collector run
+
+      # журнал коммитим и после сбоя, чтобы ошибка была видна в data/runs.json и на витрине
+      - name: Commit data
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Данные не изменились"
+          else
+            git commit -m "data: сбор $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - name: Build site
+        if: ${{ !cancelled() }}
+        run: |
+          mkdir -p _site
+          cp -r site/. _site/
+          cp -r data _site/data
+
+      - uses: actions/configure-pages@v5
+        if: ${{ !cancelled() }}
+
+      - uses: actions/upload-pages-artifact@v3
+        if: ${{ !cancelled() }}
+        with:
+          path: _site
+
+  deploy:
+    needs: collect
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

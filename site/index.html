@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Эко-сборщик: витрина данных</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    // тема до отрисовки, чтобы не мигало
+    try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top__row">
+      <div>
+        <h1 class="brand">Эко-сборщик</h1>
+        <p class="lead">Демо: открытые данные об отходах и экологии. Сохраняем заголовок, короткое описание и ссылку на первоисточник.</p>
+      </div>
+      <button class="theme" id="theme" type="button" aria-label="Переключить тему">◐</button>
+    </div>
+    <div class="wrap stats" id="stats"></div>
+    <nav class="wrap tabs" role="tablist">
+      <button role="tab" data-tab="news" aria-selected="true">Новости</button>
+      <button role="tab" data-tab="waste" aria-selected="false">Объявления</button>
+      <button role="tab" data-tab="runs" aria-selected="false">Журнал запусков</button>
+      <button role="tab" data-tab="sources" aria-selected="false">Источники</button>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section class="filters" id="filters" hidden>
+      <input type="search" id="q" placeholder="Поиск по тексту" aria-label="Поиск по тексту">
+      <select id="category" aria-label="Категория"></select>
+      <select id="offer" aria-label="Тип предложения"></select>
+      <select id="region" aria-label="Регион"></select>
+      <select id="source" aria-label="Источник"></select>
+      <label class="date">с <input type="date" id="from"></label>
+      <label class="date">по <input type="date" id="to"></label>
+      <button type="button" id="reset" class="ghost">Сбросить</button>
+    </section>
+    <p class="count" id="count"></p>
+    <div id="view" aria-live="polite"><p class="empty">Загрузка данных…</p></div>
+    <button type="button" id="more" class="more" hidden>Показать ещё</button>
+  </main>
+
+  <footer class="wrap foot">
+    Демо-проект для портфолио. Источники и основания для сбора описаны на вкладке «Источники». Данные обновляются по расписанию.
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>

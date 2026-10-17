@@ -1,0 +1,216 @@
+[
+ {
+  "run_id": "2026-10-17T22:04:29+03:00",
+  "started_at": "2026-10-17T22:04:29+03:00",
+  "finished_at": "2026-10-17T22:07:20+03:00",
+  "duration_s": 170.9,
+  "status": "ok",
+  "totals": {
+   "fetched": 3662,
+   "new": 0,
+   "duplicates": 258,
+   "skipped": 3404,
+   "errors": 0
+  },
+  "sources": [
+   {
+    "source_id": "ecosphere",
+    "source_name": "Экосфера",
+    "kind": "news",
+    "status": "not_modified",
+    "fetched": 0,
+    "new": 0,
+    "duplicates": 0,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 6.2
+   },
+   {
+    "source_id": "mnr",
+    "source_name": "Минприроды России",
+    "kind": "news",
+    "status": "not_modified",
+    "fetched": 0,
+    "new": 0,
+    "duplicates": 0,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 2.0
+   },
+   {
+    "source_id": "reo",
+    "source_name": "РЭО",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 3527,
+    "new": 0,
+    "duplicates": 123,
+    "skipped": 3404,
+    "errors": 0,
+    "error": null,
+    "duration_s": 4.0
+   },
+   {
+    "source_id": "solidwaste",
+    "source_name": "Журнал «Твёрдые бытовые отходы»",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 15,
+    "new": 0,
+    "duplicates": 15,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 2.2
+   },
+   {
+    "source_id": "wasteru_board",
+    "source_name": "Биржа отходов Отходы.Ру",
+    "kind": "waste",
+    "status": "ok",
+    "fetched": 96,
+    "new": 0,
+    "duplicates": 96,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 34.2
+   },
+   {
+    "source_id": "wasteru_news",
+    "source_name": "Отходы.Ру",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 10,
+    "new": 0,
+    "duplicates": 10,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 1.9
+   },
+   {
+    "source_id": "zakupki",
+    "source_name": "ЕИС «Госзакупки»",
+    "kind": "waste",
+    "status": "ok",
+    "fetched": 14,
+    "new": 0,
+    "duplicates": 14,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 120.3
+   }
+  ]
+ },
+ {
+  "run_id": "2026-10-17T21:58:43+03:00",
+  "started_at": "2026-10-17T21:58:43+03:00",
+  "finished_at": "2026-10-17T22:04:29+03:00",
+  "duration_s": 346.5,
+  "status": "ok",
+  "totals": {
+   "fetched": 3726,
+   "new": 291,
+   "duplicates": 15,
+   "skipped": 3420,
+   "errors": 0
+  },
+  "sources": [
+   {
+    "source_id": "ecosphere",
+    "source_name": "Экосфера",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 60,
+    "new": 38,
+    "duplicates": 6,
+    "skipped": 16,
+    "errors": 0,
+    "error": null,
+    "duration_s": 6.0
+   },
+   {
+    "source_id": "mnr",
+    "source_name": "Минприроды России",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 4,
+    "new": 4,
+    "duplicates": 0,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 2.0
+   },
+   {
+    "source_id": "reo",
+    "source_name": "РЭО",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 3527,
+    "new": 123,
+    "duplicates": 0,
+    "skipped": 3404,
+    "errors": 0,
+    "error": null,
+    "duration_s": 4.0
+   },
+   {
+    "source_id": "solidwaste",
+    "source_name": "Журнал «Твёрдые бытовые отходы»",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 15,
+    "new": 15,
+    "duplicates": 0,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 2.2
+   },
+   {
+    "source_id": "wasteru_board",
+    "source_name": "Биржа отходов Отходы.Ру",
+    "kind": "waste",
+    "status": "ok",
+    "fetched": 96,
+    "new": 88,
+    "duplicates": 8,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 210.2
+   },
+   {
+    "source_id": "wasteru_news",
+    "source_name": "Отходы.Ру",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 10,
+    "new": 10,
+    "duplicates": 0,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 1.9
+   },
+   {
+    "source_id": "zakupki",
+    "source_name": "ЕИС «Госзакупки»",
+    "kind": "waste",
+    "status": "ok",
+    "fetched": 14,
+    "new": 13,
+    "duplicates": 1,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 120.1
+   }
+  ]
+ }
+]
