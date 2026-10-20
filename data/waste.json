@@ -1,5 +1,26 @@
 [
  {
+  "id": "7a1eb33562bf976e",
+  "content_key": "563914e466c103c8",
+  "source_id": "wasteru_board",
+  "source_name": "Биржа отходов Отходы.Ру",
+  "title": "Продам обрезь искусственного меха и вельбоа",
+  "published": "2026-10-19",
+  "url": "https://www.waste.ru/modules/adslight/viewads.php?lid=21514",
+  "collected_at": "2026-10-20T11:26:48+03:00",
+  "offer_type": "продам",
+  "category": "Прочее",
+  "fkko": null,
+  "hazard_classes": [],
+  "volume": 5.0,
+  "volume_unit": "т",
+  "price": null,
+  "currency": null,
+  "region_code": "33",
+  "region": "Владимирская область",
+  "organization": null
+ },
+ {
   "id": "26425694ae49a024",
   "content_key": "7287730b3bbf4e8a",
   "source_id": "zakupki",
