@@ -1,5 +1,26 @@
 [
  {
+  "id": "084fedf170024389",
+  "content_key": "228e13e02dc9d938",
+  "source_id": "wasteru_board",
+  "source_name": "Биржа отходов Отходы.Ру",
+  "title": "Оконный профиль ПВХ",
+  "published": "2026-10-30",
+  "url": "https://www.waste.ru/modules/adslight/viewads.php?lid=21515",
+  "collected_at": "2026-10-31T12:32:07+03:00",
+  "offer_type": "куплю",
+  "category": "Пластик",
+  "fkko": null,
+  "hazard_classes": [],
+  "volume": null,
+  "volume_unit": null,
+  "price": 45000.0,
+  "currency": "RUB",
+  "region_code": "77",
+  "region": "Москва",
+  "organization": null
+ },
+ {
   "id": "7a1eb33562bf976e",
   "content_key": "563914e466c103c8",
   "source_id": "wasteru_board",
