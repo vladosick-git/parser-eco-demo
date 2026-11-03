@@ -1,5 +1,26 @@
 [
  {
+  "id": "1bdacbeb7468e720",
+  "content_key": "114dd2cd1da682de",
+  "source_id": "wasteru_board",
+  "source_name": "Биржа отходов Отходы.Ру",
+  "title": "Покупаем краски",
+  "published": "2026-11-03",
+  "url": "https://www.waste.ru/modules/adslight/viewads.php?lid=21520",
+  "collected_at": "2026-11-03T13:45:26+03:00",
+  "offer_type": "куплю",
+  "category": "Металл",
+  "fkko": null,
+  "hazard_classes": [],
+  "volume": null,
+  "volume_unit": null,
+  "price": null,
+  "currency": null,
+  "region_code": "77",
+  "region": "Москва",
+  "organization": null
+ },
+ {
   "id": "fa1c47b6c837c937",
   "content_key": "30dcc5c250e67df2",
   "source_id": "wasteru_board",
