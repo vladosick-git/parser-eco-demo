@@ -1,5 +1,26 @@
 [
  {
+  "id": "189312930f8f2d4a",
+  "content_key": "3f3ae425c2907f02",
+  "source_id": "wasteru_board",
+  "source_name": "Биржа отходов Отходы.Ру",
+  "title": "Как утилизировать краску с истекшим сроком годност",
+  "published": "2026-11-09",
+  "url": "https://www.waste.ru/modules/adslight/viewads.php?lid=21529",
+  "collected_at": "2026-11-09T14:23:26+03:00",
+  "offer_type": "куплю",
+  "category": "Металл",
+  "fkko": null,
+  "hazard_classes": [],
+  "volume": null,
+  "volume_unit": null,
+  "price": null,
+  "currency": null,
+  "region_code": "77",
+  "region": "Москва",
+  "organization": null
+ },
+ {
   "id": "fe717a71bd99fbe1",
   "content_key": "91dc73ea1500897d",
   "source_id": "wasteru_board",
