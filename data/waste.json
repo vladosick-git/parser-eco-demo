@@ -1,5 +1,26 @@
 [
  {
+  "id": "28eb61e1a146186f",
+  "content_key": "049e18d7a6a0c7bd",
+  "source_id": "wasteru_board",
+  "source_name": "Биржа отходов Отходы.Ру",
+  "title": "Где продавать краску оптом",
+  "published": "2026-11-10",
+  "url": "https://www.waste.ru/modules/adslight/viewads.php?lid=21530",
+  "collected_at": "2026-11-10T14:02:41+03:00",
+  "offer_type": "куплю",
+  "category": "Металл",
+  "fkko": null,
+  "hazard_classes": [],
+  "volume": null,
+  "volume_unit": null,
+  "price": null,
+  "currency": null,
+  "region_code": "77",
+  "region": "Москва",
+  "organization": null
+ },
+ {
   "id": "189312930f8f2d4a",
   "content_key": "3f3ae425c2907f02",
   "source_id": "wasteru_board",
