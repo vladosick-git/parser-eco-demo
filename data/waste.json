@@ -1,5 +1,26 @@
 [
  {
+  "id": "fc92d861d152944d",
+  "content_key": "cf6953af4a8d5588",
+  "source_id": "wasteru_board",
+  "source_name": "Биржа отходов Отходы.Ру",
+  "title": "Как утилизировать старую краску",
+  "published": "2026-11-16",
+  "url": "https://www.waste.ru/modules/adslight/viewads.php?lid=21532",
+  "collected_at": "2026-11-16T14:20:39+03:00",
+  "offer_type": "куплю",
+  "category": "Металл",
+  "fkko": null,
+  "hazard_classes": [],
+  "volume": null,
+  "volume_unit": null,
+  "price": null,
+  "currency": null,
+  "region_code": null,
+  "region": null,
+  "organization": null
+ },
+ {
   "id": "eefd7b177e335302",
   "content_key": "c393a594cc2a8c39",
   "source_id": "wasteru_board",
