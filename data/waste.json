@@ -1,5 +1,26 @@
 [
  {
+  "id": "f4b37cdabf42d297",
+  "content_key": "17b2886034e739e4",
+  "source_id": "wasteru_board",
+  "source_name": "Биржа отходов Отходы.Ру",
+  "title": "Отходы ПЭТ мононити",
+  "published": "2026-11-17",
+  "url": "https://www.waste.ru/modules/adslight/viewads.php?lid=21533",
+  "collected_at": "2026-11-17T14:53:09+03:00",
+  "offer_type": "продам",
+  "category": "Пластик",
+  "fkko": null,
+  "hazard_classes": [],
+  "volume": null,
+  "volume_unit": null,
+  "price": null,
+  "currency": null,
+  "region_code": "43",
+  "region": "Кировская область",
+  "organization": null
+ },
+ {
   "id": "fc92d861d152944d",
   "content_key": "cf6953af4a8d5588",
   "source_id": "wasteru_board",
