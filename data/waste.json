@@ -1,5 +1,26 @@
 [
  {
+  "id": "a224c43363186c96",
+  "content_key": "378ff08e6c3e451c",
+  "source_id": "wasteru_board",
+  "source_name": "Биржа отходов Отходы.Ру",
+  "title": "Как утилизировать остатки краски",
+  "published": "2026-11-20",
+  "url": "https://www.waste.ru/modules/adslight/viewads.php?lid=21534",
+  "collected_at": "2026-11-20T14:40:51+03:00",
+  "offer_type": "куплю",
+  "category": "Металл",
+  "fkko": null,
+  "hazard_classes": [],
+  "volume": null,
+  "volume_unit": null,
+  "price": null,
+  "currency": null,
+  "region_code": null,
+  "region": null,
+  "organization": null
+ },
+ {
   "id": "f4b37cdabf42d297",
   "content_key": "17b2886034e739e4",
   "source_id": "wasteru_board",
