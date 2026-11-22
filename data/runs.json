@@ -1,5 +1,112 @@
 [
  {
+  "run_id": "2026-11-22T14:26:30+03:00",
+  "started_at": "2026-11-22T14:26:30+03:00",
+  "finished_at": "2026-11-22T14:32:03+03:00",
+  "duration_s": 333.7,
+  "status": "partial",
+  "totals": {
+   "fetched": 3677,
+   "new": 0,
+   "duplicates": 242,
+   "skipped": 3435,
+   "errors": 2
+  },
+  "sources": [
+   {
+    "source_id": "ecosphere",
+    "source_name": "Экосфера",
+    "kind": "news",
+    "status": "not_modified",
+    "fetched": 0,
+    "new": 0,
+    "duplicates": 0,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 6.1
+   },
+   {
+    "source_id": "mnr",
+    "source_name": "Минприроды России",
+    "kind": "news",
+    "status": "error",
+    "fetched": 0,
+    "new": 0,
+    "duplicates": 0,
+    "skipped": 0,
+    "errors": 1,
+    "error": "ConnectTimeout: timed out",
+    "duration_s": 137.0
+   },
+   {
+    "source_id": "reo",
+    "source_name": "РЭО",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 3540,
+    "new": 0,
+    "duplicates": 105,
+    "skipped": 3435,
+    "errors": 0,
+    "error": null,
+    "duration_s": 4.8
+   },
+   {
+    "source_id": "solidwaste",
+    "source_name": "Журнал «Твёрдые бытовые отходы»",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 15,
+    "new": 0,
+    "duplicates": 15,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 2.5
+   },
+   {
+    "source_id": "wasteru_board",
+    "source_name": "Биржа отходов Отходы.Ру",
+    "kind": "waste",
+    "status": "ok",
+    "fetched": 112,
+    "new": 0,
+    "duplicates": 112,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 40.3
+   },
+   {
+    "source_id": "wasteru_news",
+    "source_name": "Отходы.Ру",
+    "kind": "news",
+    "status": "ok",
+    "fetched": 10,
+    "new": 0,
+    "duplicates": 10,
+    "skipped": 0,
+    "errors": 0,
+    "error": null,
+    "duration_s": 4.2
+   },
+   {
+    "source_id": "zakupki",
+    "source_name": "ЕИС «Госзакупки»",
+    "kind": "waste",
+    "status": "error",
+    "fetched": 0,
+    "new": 0,
+    "duplicates": 0,
+    "skipped": 0,
+    "errors": 1,
+    "error": "ConnectTimeout: timed out",
+    "duration_s": 138.7
+   }
+  ]
+ },
+ {
   "run_id": "2026-11-21T14:02:43+03:00",
   "started_at": "2026-11-21T14:02:43+03:00",
   "finished_at": "2026-11-21T14:08:10+03:00",
