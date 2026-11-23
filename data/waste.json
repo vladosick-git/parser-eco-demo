@@ -1,5 +1,26 @@
 [
  {
+  "id": "722223bda107c03d",
+  "content_key": "d149d5095cf439d9",
+  "source_id": "wasteru_board",
+  "source_name": "Биржа отходов Отходы.Ру",
+  "title": "Как утилизировать краску после ремонта",
+  "published": "2026-11-23",
+  "url": "https://www.waste.ru/modules/adslight/viewads.php?lid=21535",
+  "collected_at": "2026-11-23T15:42:51+03:00",
+  "offer_type": "куплю",
+  "category": "Металл",
+  "fkko": null,
+  "hazard_classes": [],
+  "volume": null,
+  "volume_unit": null,
+  "price": null,
+  "currency": null,
+  "region_code": "25",
+  "region": "Приморский край",
+  "organization": null
+ },
+ {
   "id": "a224c43363186c96",
   "content_key": "378ff08e6c3e451c",
   "source_id": "wasteru_board",
